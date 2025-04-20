@@ -36,7 +36,7 @@ app.use('/api/external', externalApiRoutes); // New external API routes
 app.use(errorMiddleware);
 
 // Serve static assets in production
-if (process.env.NODE_ENV === 'production') {
+if (process.env.NODE_ENV === 'deployment') {
   // Set static folder
   app.use(express.static(path.join(__dirname, '../frontend/dist')));
 
