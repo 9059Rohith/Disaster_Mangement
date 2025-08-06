@@ -117,7 +117,7 @@ if (process.env.NODE_ENV === 'production') {
 
 ## 📦 Technologies Used
 
-- **Frontend:** React, Vite, Tailwind CSS
+- **Frontend:** React, Vite, Tailwind CSS,Next js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Other Tools:** Dotenv, CORS, Mongoose
@@ -148,3 +148,4 @@ This project is licensed under the MIT License.
 ---
 
 Let me know if you want to add screenshots, a contributing section, or deployment instructions for Render/Netlify/Vercel.
+
