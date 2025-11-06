@@ -2,7 +2,7 @@ Sure! Here's a basic `README.md` file for your **AI Disaster Management App (Dis
 
 ---
 
-```markdown
+``
 # 🌐 Disaster Guard - AI Disaster Management App
 
 An AI-powered platform to report, monitor, and manage disaster-related data in real-time. This application consists of a Node.js + Express backend, a Vite + React frontend, and MongoDB for the database.
@@ -148,4 +148,5 @@ This project is licensed under the MIT License.
 ---
 
 Let me know if you want to add screenshots, a contributing section, or deployment instructions for Render/Netlify/Vercel.
+
 
